@@ -9,13 +9,16 @@ Date fruits are a popular and nutritious food consumed worldwide. This project a
 FEATURES
 
 •	Data Preprocessing: The raw data containing images of date fruits is preprocessed to extract relevant features and prepare it for classification.
+
 •	Date Fruit Classification: Several machine learning classifiers are utilized to classify date fruits, including Random Forest, Gradient Boosting, Decision Tree, and a Voting Classifier that combines the predictions of multiple base classifiers.
 
 
 REQUIREMENTS
 
 •	Python 3.x
+
 •	Jupyter Notebook
+
 •	scikit-learn
 
 
